@@ -3,9 +3,9 @@ spring:
     name: "vlute-document-management"
 
   datasource:
-    url: "jdbc:mysql://localhost:3306"
+    url: "jdbc:mysql://localhost:3306/vlute-document-management"
     username: "root"
-    password: "Anhnamc9e"
+    password: ""
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
